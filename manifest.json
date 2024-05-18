@@ -1,25 +1,25 @@
 {
-  "name": "Welcome to MIT 502 - Advanced Media and Web Technologies",
-  "short_name": "LSPU CCS",
+  "name": "Welcome to My PWA",
+  "short_name": "MyPWA",
   "icons": [{
-    "src": "images/logo-ccs-60.png",
+    "src": "images/k.png",
       "sizes": "60x60",
       "type": "image/png",
       "purpose": "any maskable"
       
     }, {
-      "src": "images/logo-ccs-90.png",
+      "src": "images/k.png",
       "sizes": "90x90",
       "type": "image/png",
       "purpose": "any maskable"
     }, {
-      "src": "images/logo-ccs-100.png",
+      "src": "images/kpng",
       "sizes": "100x100",
       "type": "image/png",
       "purpose": "any maskable"
     }
     , {
-      "src": "images/logo-ccs-512.png",
+      "src": "images/k.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

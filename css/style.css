@@ -5,11 +5,9 @@ body {
 /* Make content area fill the entire browser window */
 html,
 .fullscreen {
-  display: flex;
   height: 100%;
   margin: 0;
   padding: 0;
-  width: 100%;
 }
 
 /* Center the content in the browser window */
@@ -20,4 +18,53 @@ html,
 
 .title {
   font-size: 3rem;
+}
+
+.page {
+  display: none;
+}
+
+#home h1, #gallery h1, #about h1 {
+  color: #343a40;
+  margin-bottom: 20px;
+}
+
+.user {
+  margin-bottom: 15px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  border: 1px solid #e9ecef;
+}
+
+.card {
+  margin: 15px 0;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-nav {
+  margin: 0;
+}
+
+.nav-item {
+  margin-bottom: 10px;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.nav-link:hover {
+  color: #ccc !important;
+}
+
+.list-group-item {
+  border: none;
 }
